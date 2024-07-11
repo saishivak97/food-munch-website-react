@@ -1,0 +1,30 @@
+
+.footer-section-container {
+    display:flex;
+    flex-direction:column;
+    justfiy-content:center;
+    align-items:center;
+    background-color: #0d2436;
+    padding:20px;
+}
+
+.footer-section-logo{
+    width:100px;
+    height:100px;
+
+}
+
+.footer-section-mail-id {
+    color: #959ead;
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 24px;
+    
+}
+
+.footer-section-address {
+    color: #959ead;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+

@@ -1,0 +1,55 @@
+.delivery-and-payment-section {
+    background-color: white;
+    
+}
+
+.delivery-and-payment-container {
+    display:flex;
+    flex-direction:row;
+    justify-content:space-evenly;
+}
+
+
+
+
+.delivery-and-payment-section-img {
+    width: 500px;
+}
+
+.delivery-and-payment-inner-container{
+    width:800px;
+}
+
+.delivery-and-payment-section-heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 36px;
+    font-weight: 700;
+    
+}
+
+.delivery-and-payment-section-description {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 26px;
+}
+
+.payment-card-img {
+    width: 50px;
+    height: 50px;
+    margin-right: 28px;
+}
+
+
+.delivery-payment-customs-button{
+    color: white;
+    background-image: linear-gradient(#d0b200, #a58d00);
+    width: 140px;
+    height: 50px;
+    border-width: 0;
+    border-radius: 8px;
+    margin-right: 10px;
+    cursor:pointer;
+    font-size:18px;
+    margin-bottom:6px;
+}

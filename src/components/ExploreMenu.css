@@ -1,0 +1,65 @@
+.offers {
+    color: #323f4b;
+    font-style: italic;
+    font-weight: 600;
+}
+
+
+
+.explore-menu-section {
+    background-color: white;
+    display:flex;
+    flex-direction:row;
+    justify-content:center;
+}
+
+.explore-menu-container {
+    display:flex;
+    flex-direction:column;
+    align-items:start;
+}
+
+
+.menu-section-heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+    text-align:start;
+}
+
+.menu-item-container {
+    display:grid;
+    justify-content:center;
+    grid-template-columns:repeat(4,auto);
+    grid-template-rows:repeat(4,auto);
+    gap:20px;
+}
+
+.menu-item-card {
+    width:300px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    padding:20px;
+    border-radius: 16px;
+}
+
+.menu-item-image {
+    border-radius: 16px;
+    width:100%;
+}
+
+.menu-card-title {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: 500;
+    margin-top: 24px;
+}
+
+.menu-item-link {
+    color: #d0b200;
+    font-family: "Roboto";
+    font-size: 18px;
+    font-weight: 500;
+}
+

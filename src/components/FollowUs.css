@@ -1,0 +1,39 @@
+.follow-us-section {
+    background-color: white;
+    display:flex;
+    flex-direction:row;
+    justify-content:center;
+    align-items:center;
+    padding:20px;
+}
+
+.follow-us-section-heading {
+    text-align: center;
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 36px;
+    font-weight: 700;
+}
+
+.follow-us-section-icon-container{
+    display:flex;
+    flex-direction:row;
+    justify-content:center;
+    align-items:center;
+}
+
+
+.follow-us-icon-container {
+    background-color: white;
+    margin: 15px;
+    padding-top: 22px;
+    padding-bottom: 14px;
+    padding-right: 16px;
+    padding-left: 22px;
+}
+
+.icons {
+    background-color: #d0b200;
+    width:60px;
+    color: #d0b200;
+}

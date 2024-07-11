@@ -1,0 +1,43 @@
+.healthy-food-section{
+    
+    background-color: #f9fbfe;
+    padding:30px;
+}
+
+.healthy-food-container {
+    display:flex;
+    flex-direction:row;
+    justify-content:space-evenly;
+    align-items:center;
+    min-height:400px;
+}
+
+
+.healthy-food-section-img {
+    width: 360px;
+}
+
+.healthy-food-section-heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 36px;
+    font-weight: 700;
+}
+
+.healthy-food-section-description {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 26px;
+    width:800px;
+}
+
+.customs-button{
+    color: white;
+    background-image: linear-gradient(#d0b200, #a58d00);
+    width: 130px;
+    height: 45px;
+    border-width: 0;
+    border-radius: 8px;
+    margin-right: 10px;
+    cursor:pointer;
+}
