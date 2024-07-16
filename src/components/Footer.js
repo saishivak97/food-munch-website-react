@@ -10,7 +10,7 @@ const Footer = () => (
       />
       <h1 className="footer-section-mail-id">orderfood@foodmunch.com</h1>
       <p className="footer-section-address">
-        123 Ayur Vigyan Nagar, New Delhi, India.
+        123 Vizianagaram, Andhra Pradesh, India.
       </p>
     </div>
   
